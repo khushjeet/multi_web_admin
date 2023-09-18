@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "517187935378",
+    "project_id": "shop-24e2c",
+    "storage_bucket": "shop-24e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517187935378:android:cab5b524bda6633f6e1a4b",
+        "android_client_info": {
+          "package_name": "com.example.multi_web_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517187935378-i89m540ud8ncsbu3obhorddu3t3uvs5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZNloq9rjoz0X5eotNzWQcGU3Fjl1Q4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517187935378-i89m540ud8ncsbu3obhorddu3t3uvs5u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517187935378-h4lnr8h5p6g4d4dgs6v83p3iqlg43lf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uberShop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517187935378:android:28642be43606edb26e1a4b",
+        "android_client_info": {
+          "package_name": "com.example.uber_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517187935378-i89m540ud8ncsbu3obhorddu3t3uvs5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZNloq9rjoz0X5eotNzWQcGU3Fjl1Q4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517187935378-i89m540ud8ncsbu3obhorddu3t3uvs5u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517187935378-h4lnr8h5p6g4d4dgs6v83p3iqlg43lf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uberShop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
